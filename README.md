@@ -20,7 +20,7 @@
   <img align="center" alt="Hugo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="right" height="100" width="50" alt="Hugo-Potter" src="https://i.picasion.com/pic91/1948d5cd1dad30ca78555be95f15000f.gif">
+  <img align="right" height="100" width="75" alt="Hugo-Potter" src="https://i.picasion.com/pic91/1948d5cd1dad30ca78555be95f15000f.gif">
 </div>
  
  <div> 
