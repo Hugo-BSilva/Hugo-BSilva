@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com back-end utilizando a plataforma .NET com a linguagem C#
 - 🌱 Estudando ADS
-- 🤔 I’m looking for help with ...
 - 📫 Contate-me no e-mail: 09silvahugo@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: fã da ❤️Marvel/💙DC
