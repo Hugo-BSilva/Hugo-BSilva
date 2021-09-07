@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="right" height="100" width="100" alt="Hugo-Potter" src="https://i.picasion.com/pic91/1948d5cd1dad30ca78555be95f15000f.gif">
-</div>
+</div><br>
  
  <div> 
   <a href="https://www.instagram.com/dev.hugob/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
