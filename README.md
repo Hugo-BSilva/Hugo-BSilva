@@ -1,11 +1,4 @@
-## Opa! Eu sou o Hugo Silva.
-
-
-- 🔭 Hoje trabalho com back-end utilizando a plataforma .NET com a linguagem C#
-- 🌱 Estudando ADS
-- 📫 Contate-me no e-mail: 09silvahugo@gmail.com
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidades: fã da ❤️Marvel/💙DC
+## Opa! Eu sou Hugo Silva.
 
  <div>
   <a href="https://github.com/Hugo-BSilva">
@@ -29,5 +22,11 @@
   <a href="https://www.linkedin.com/in/hugo-barbosa-a3b40a157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Hugo-BSilva/Hugo-BSilva/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+ 
+ - 🔭 Hoje trabalho com back-end utilizando a plataforma .NET com a linguagem C#
+- 🌱 Estudando ADS
+- 📫 Contate-me no e-mail: 09silvahugo@gmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidades: fã da ❤️Marvel/💙DC
+
