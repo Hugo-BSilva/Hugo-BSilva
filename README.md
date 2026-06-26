@@ -24,9 +24,7 @@
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="Hugo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Hugo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">  
-  <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
  <!-- Nuvem -->
  <img align="center" alt="Hugo-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
@@ -43,5 +41,6 @@
 </div>
  
  - 🔭 Hoje trabalho com back-end utilizando a plataforma .NET com a linguagem C#
-- 🌱 Estudando ADS
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas
 - 📫 E-mail: 09silvahugo@gmail.com
